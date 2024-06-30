@@ -14,14 +14,11 @@ title: Cranes n Trains
 
 ## Navigation
 
-- [Home](/)
-- [Media](/media.md)
-- [Contact](/contact.md)
+- [Home](/) - [Media](/media.md) - [Contact](/contact.md)
 
 ---
 
 ## Latest Posts
-### Jun 23
 - ## [Week 8 - Saitama Outreach ![image](https://github.com/to3b/to3b.github.io/assets/120763300/eec0766a-b7bb-4003-9466-e010e22ba66b)](https://your-username.github.io/posts/post1.html)
 ---
 - ## [Week 7 - Godly relationships ![image](https://github.com/to3b/to3b.github.io/assets/120763300/f905e68c-f09d-4d16-b898-242b4ec67ff5)](https://your-username.github.io/posts/post1.html)
