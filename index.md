@@ -20,8 +20,8 @@ title: Cranes n Trains
 
 ## Latest Posts
 
-- [Week 8 - Saitama Outreach](https://your-username.github.io/posts/post1.html)
-![Week 8 - Saitama Outreach](https://static.wixstatic.com/media/8ac3ca_575f2a20c7a949bf97ab3b30312883ee~mv2.jpeg/v1/fill/w_453,h_603,fp_0.50_0.50,q_90,enc_auto/8ac3ca_575f2a20c7a949bf97ab3b30312883ee~mv2.jpeg)
+- [Week 8 - Saitama Outreach ![Week 8 - Saitama Outreach](https://static.wixstatic.com/media/8ac3ca_575f2a20c7a949bf97ab3b30312883ee~mv2.jpeg/v1/fill/w_453,h_603,fp_0.50_0.50,q_90,enc_auto/8ac3ca_575f2a20c7a949bf97ab3b30312883ee~mv2.jpeg)](https://your-username.github.io/posts/post1.html)
+
 ---
 - [Post 2](https://your-username.github.io/posts/post2.html)
 ---
