@@ -35,7 +35,7 @@ title: Cranes n Trains
 - ## [YWAM OSAKA DTS Week 1 - Beginning! ![image](https://github.com/to3b/to3b.github.io/assets/120763300/e45f4d63-8331-4b0a-a1a8-5151d9803bb5)](https://your-username.github.io/posts/post1.html)
 
 <style>
-  * {
+  #home---media---contact {
     text-align: center;
   }
 </style>
