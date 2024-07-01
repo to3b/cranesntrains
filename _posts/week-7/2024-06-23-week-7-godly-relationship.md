@@ -4,7 +4,8 @@ title: "Week 7 - Godly relationships"
 date: 2024-06-23
 permalink: /blog/week-7-godly-relationships/
 ---
-
+# [Home](/) - [Media](/media.html) - [Contact](/contact.html)
+---
 <div id="imageGallery"></div>
 
 <script>
