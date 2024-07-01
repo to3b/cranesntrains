@@ -26,7 +26,7 @@ $(document).ready(function() {
 });
 
     // Array of image file names (replace with your actual file names)
-    var imageFiles = ['week5 (1).webp', 'week5 (2).webp', 'week5 (3).webp', 'week5 (4).webp', 'week5 (5).webp', 'week5 (6).webp', 'week5 (7).webp', 'week5 (8).webp', 'week5 (9).webp', 'week5 (10).webp', 'week5 (11).webp', 'week5 (12).webp', 'week5 (13).webp', 'week5 (14).webp', 'week5 (15).webp', 'week5 (16).webp', 'week5 (17).webp', 'week5 (18).webp', 'week5 (19).webp', 'week5 (20).webp', 'week5 (21).webp']; // Add more as needed
+    var imageFiles = ['week5 (1).webp', 'week5 (2).webp', 'week5 (3).webp', 'week5 (4).webp', 'week5 (5).webp', 'week5 (6).webp', 'week5 (7).webp', 'week5 (8).webp', 'week5 (9).webp', 'week5 (10).webp', 'week5 (11).webp', 'week5 (12).webp', 'week5 (13).webp', 'week5 (14).webp', 'week5 (15).webp', 'week5 (16).webp', 'week5 (17).webp', 'week5 (18).webp', 'week5 (19).webp', 'week5 (20).webp']; // Add more as needed
 
     // Reference to the gallery container
     var galleryContainer = document.getElementById('imageGallery');
