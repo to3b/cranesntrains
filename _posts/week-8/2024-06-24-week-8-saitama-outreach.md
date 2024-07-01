@@ -6,12 +6,7 @@ permalink: /blog/week-8-saitama-outreach/
 ---
 # Week 8 - Saitama Outreach
 
-<div class="gallery">
-  <a href="/path/to/image1.jpg" data-fancybox="gallery" data-caption="Image 1"><img src="/path/to/image1.jpg" alt="Image 1"></a>
-  <a href="/path/to/image2.jpg" data-fancybox="gallery" data-caption="Image 2"><img src="/path/to/image2.jpg" alt="Image 2"></a>
-  <a href="/path/to/image3.jpg" data-fancybox="gallery" data-caption="Image 3"><img src="/path/to/image3.jpg" alt="Image 3"></a>
-  <!-- Add more images as needed -->
-</div>
+<div id="imageGallery"></div>
 
 <script>
 $(document).ready(function() {
@@ -29,6 +24,34 @@ $(document).ready(function() {
     keyboard: true // Enable keyboard navigation (arrows)
   });
 });
+
+    // Array of image file names (replace with your actual file names)
+    var imageFiles = ['8ac3ca_575f2a20c7a949bf97ab3b30312883ee~mv2.webp', '8ac3ca_dec209c3426f4727987d5ec706ca5da6~mv2.webp', 'download.webp']; // Add more as needed
+
+    // Reference to the gallery container
+    var galleryContainer = document.getElementById('imageGallery');
+
+    // Loop through image files and generate HTML
+    imageFiles.forEach(function(fileName) {
+        var imagePath = '' + fileName; // Adjust the path as necessary
+        var caption = 'Image ' + fileName; // You can set dynamic captions here
+        
+        // Create <a> tag for each image
+        var link = document.createElement('a');
+        link.href = imagePath;
+        link.setAttribute('data-fancybox', 'gallery'); // If using Fancybox or similar lightbox
+
+        // Create <img> tag for each image
+        var image = document.createElement('img');
+        image.src = imagePath;
+        image.alt = caption;
+
+        // Append <img> to <a>
+        link.appendChild(image);
+
+        // Append <a> to gallery container
+        galleryContainer.appendChild(link);
+    });
 </script>
 
 こんにちは！For week 8 of Lecture Phase our DTS and a few staff went to Saitama for a mini outreach at a Christian school. It was a full week! We got to be apart of English and Bible classes, and also run their chapel services. We had so much fun connecting with the staff/teachers and students of Seibo Gakuen High School! We had opportunities after school from 3-4pm until 6pm for the students to come to the place we stayed at and just hang out with us. This also would give us more opportunities to talk about Jesus if the students were interested. I really enjoyed chatting one on one with students after school, and doing portraits of students. I also was able to teach our DTS team the actions to My Lighthouse, and the Nut Bush (an Australian dance) so we could use these during classes or chapel. We also did skits - the Knocking skit, the Sin Chair skit, and faridari fruit cake (just a funny, ice breaker skit). 
