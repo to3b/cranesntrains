@@ -11,4 +11,5 @@ img {
     top: 12px;
     width: 28px;
     z-index: 10;
+    aspect-ratio: 1/1
 }
