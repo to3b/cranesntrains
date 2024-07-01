@@ -35,6 +35,7 @@ title: Cranes n Trains
 
 <style>
   img {
-    height: auto;
-    width: auto;
+    height: 500px;
+    width: 400px;
+  }
 </style>
