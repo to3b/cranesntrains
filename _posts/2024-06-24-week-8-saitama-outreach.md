@@ -15,14 +15,14 @@ For week 9, we have the topic of ‘Jesus!’ Which will be taught by a staff me
 
 Thanks giving:
 
-Opportunity to do this mini outreach half way through Lecture Phase
-Friendships and connnections with students at Seibo Gakuen High School
+- Opportunity to do this mini outreach half way through Lecture Phase
+- Friendships and connnections with students at Seibo Gakuen High School
 
 Prayer requests:
 
-Continue to grow the Japanese friendships we have made
-Grow as a team as we prepare for Philippines outreach 
-Learn more about who Jesus is and why we should share Him with the world
+- Continue to grow the Japanese friendships we have made
+- Grow as a team as we prepare for Philippines outreach 
+- Learn more about who Jesus is and why we should share Him with the world
 
 Below I’ve put the above text through a translator app. Hopefully one day I’ll be able to write my newsletter/blog in Japanese and English!
 
@@ -41,15 +41,15 @@ Below I’ve put the above text through a translator app. Hopefully one day I’
 ありがとう：
 
 
-レクチャー・フェーズの途中で、このミニ・アウトリーチをする機会があった。
+- レクチャー・フェーズの途中で、このミニ・アウトリーチをする機会があった。
 
-聖望学園高校の生徒たちとの友情とつながり
+- 聖望学園高校の生徒たちとの友情とつながり
 
 祈りのリクエスト:
 
 
-日本人の友情を深める
+- 日本人の友情を深める
 
-フィリピンのアウトリーチに向けて、チームとして成長する。
+- フィリピンのアウトリーチに向けて、チームとして成長する。
 
-イエスがどのようなお方か、そしてなぜ私たちがイエス様を世界に伝えるべきなのかを学ぶ
+- イエスがどのようなお方か、そしてなぜ私たちがイエス様を世界に伝えるべきなのかを学ぶ
