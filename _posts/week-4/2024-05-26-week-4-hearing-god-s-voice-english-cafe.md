@@ -4,7 +4,8 @@ title: "Week 4 - Hearing God’s voice, & English Cafe!"
 date: 2024-05-26
 permalink: /blog/week-4-hearing-god-s-voice-english-cafe/
 ---
-
+# [Home](/) - [Media](/media.html) - [Contact](/contact.html)
+---
 <div id="imageGallery"></div>
 
 <script>
