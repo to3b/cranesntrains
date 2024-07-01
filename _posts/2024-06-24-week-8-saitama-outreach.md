@@ -2,6 +2,7 @@
 layout: default
 title: "Week 8 - Saitama Outreach"
 date: 2024-06-24
+permalink: /blog/week-8-saitama-outreach/
 ---
 # Week 8 - Saitama Outreach
 ## IMAGES HERE PLEASE TOBY THANK YOU
