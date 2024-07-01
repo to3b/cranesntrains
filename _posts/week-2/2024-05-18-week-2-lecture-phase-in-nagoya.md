@@ -4,7 +4,8 @@ title: "Week 2 - Lecture phase in Nagoya!"
 date: 2024-05-18
 permalink: /blog/week-2-lecture-phase-in-nagoya/
 ---
-
+# [Home](/) - [Media](/media.html) - [Contact](/contact.html)
+---
 <div id="imageGallery"></div>
 
 <script>
