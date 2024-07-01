@@ -3,3 +3,6 @@ description: YWAM updates!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://to3b.github.io" # the base hostname & protocol for your site
 theme: jekyll-theme-tactile
+markdown: kramdown
+kramdown:
+  input: GFM
