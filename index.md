@@ -9,7 +9,7 @@ title: Cranes n Trains
 ---
 
 ### ABOUT ME
-<video width="400" controls>
+<video width="400" muted autoplay>
   <source src="file.mp4" type="video/mp4">
   Your browser does not support HTML video.
 </video>
