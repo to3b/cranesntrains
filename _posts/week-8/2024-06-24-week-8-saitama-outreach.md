@@ -4,7 +4,8 @@ title: "Week 8 - Saitama Outreach"
 date: 2024-06-24
 permalink: /blog/week-8-saitama-outreach/
 ---
-
+# [Home](/) - [Media](/media.md) - [Contact](/contact.md)
+---
 <div id="imageGallery"></div>
 
 <script>
