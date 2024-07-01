@@ -4,7 +4,8 @@ title: "YWAM OSAKA DTS Week 1 - Beginning!"
 date: 2024-05-14
 permalink: /blog/ywam-osaka-dts-week-1-beginning/
 ---
-
+# [Home](/) - [Media](/media.html) - [Contact](/contact.html)
+---
 <div id="imageGallery"></div>
 
 <script>
