@@ -5,7 +5,32 @@ date: 2024-06-24
 permalink: /blog/week-8-saitama-outreach/
 ---
 # Week 8 - Saitama Outreach
-## IMAGES HERE PLEASE TOBY THANK YOU
+
+<div class="gallery">
+  <a href="/path/to/image1.jpg" data-fancybox="gallery" data-caption="Image 1"><img src="/path/to/image1.jpg" alt="Image 1"></a>
+  <a href="/path/to/image2.jpg" data-fancybox="gallery" data-caption="Image 2"><img src="/path/to/image2.jpg" alt="Image 2"></a>
+  <a href="/path/to/image3.jpg" data-fancybox="gallery" data-caption="Image 3"><img src="/path/to/image3.jpg" alt="Image 3"></a>
+  <!-- Add more images as needed -->
+</div>
+
+<script>
+$(document).ready(function() {
+  $('[data-fancybox="gallery"]').fancybox({
+    loop: true, // Enable infinite loop (circular navigation)
+    buttons: [
+      "zoom",
+      "slideShow",
+      "fullScreen",
+      "thumbs",
+      "close"
+    ],
+    animationEffect: "fade", // Transition effect
+    transitionDuration: 500, // Duration of the transition
+    keyboard: true // Enable keyboard navigation (arrows)
+  });
+});
+</script>
+
 こんにちは！For week 8 of Lecture Phase our DTS and a few staff went to Saitama for a mini outreach at a Christian school. It was a full week! We got to be apart of English and Bible classes, and also run their chapel services. We had so much fun connecting with the staff/teachers and students of Seibo Gakuen High School! We had opportunities after school from 3-4pm until 6pm for the students to come to the place we stayed at and just hang out with us. This also would give us more opportunities to talk about Jesus if the students were interested. I really enjoyed chatting one on one with students after school, and doing portraits of students. I also was able to teach our DTS team the actions to My Lighthouse, and the Nut Bush (an Australian dance) so we could use these during classes or chapel. We also did skits - the Knocking skit, the Sin Chair skit, and faridari fruit cake (just a funny, ice breaker skit). 
 
 After we finished at the school Saturday afternoon, most of the DTS students went to Shibuya - where the crazy crossing is! We mostly explored Shibuya and then headed home!
