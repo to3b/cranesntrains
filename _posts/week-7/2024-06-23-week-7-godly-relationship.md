@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Week 7 - Godly relationships"
-date: 2024-06-24
+date: 2024-06-23
 permalink: /blog/week-7-godly-relationships/
 ---
 
