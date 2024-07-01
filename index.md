@@ -15,7 +15,8 @@ title: Cranes n Trains
 ---
 
 ---
-
+<div class='donteffect'>
+  
 ## Latest Posts
 - ## [Week 8 - Saitama Outreach ![image](https://github.com/to3b/to3b.github.io/assets/120763300/eec0766a-b7bb-4003-9466-e010e22ba66b)](/blog/week-8-saitama-outreach/)
 ---
@@ -33,3 +34,4 @@ title: Cranes n Trains
 ---
 - ## [YWAM OSAKA DTS Week 1 - Beginning! ![image](https://github.com/to3b/to3b.github.io/assets/120763300/e45f4d63-8331-4b0a-a1a8-5151d9803bb5)](/blog/ywam-osaka-dts-week-1-beginning/)
 
+</div>
