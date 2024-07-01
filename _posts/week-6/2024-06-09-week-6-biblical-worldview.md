@@ -4,7 +4,8 @@ title: "Week 6 - Biblical Worldview!"
 date: 2024-06-09
 permalink: /blog/week-6-biblical-worldview/
 ---
-
+# [Home](/) - [Media](/media.html) - [Contact](/contact.html)
+---
 <div id="imageGallery"></div>
 
 <script>
