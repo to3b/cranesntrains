@@ -1,7 +1,7 @@
 footer {
     display: none;
 }
-img {
+img:not(.donteffect) {
     background-color: #fff;
     height: 202px;
     width: 202px;
