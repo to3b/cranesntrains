@@ -1,3 +1,14 @@
 footer {
     display: none;
 }
+img {
+    background-color: #fff;
+    border-radius: 30px;
+    display: none;
+    height: 28px;
+    position: absolute;
+    right: 12px;
+    top: 12px;
+    width: 28px;
+    z-index: 10;
+}
