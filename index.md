@@ -15,7 +15,7 @@ title: Cranes n Trains
 ---
 
 ---
-<div class='donteffect'>
+<div class='donteffect' style="color: blue">
   
 ## Latest Posts
 - ## [Week 8 - Saitama Outreach ![image](https://github.com/to3b/to3b.github.io/assets/120763300/eec0766a-b7bb-4003-9466-e010e22ba66b)](/blog/week-8-saitama-outreach/)
