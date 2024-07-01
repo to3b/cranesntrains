@@ -4,7 +4,8 @@ title: "Week 3 - the nature and character of God, & Outreach location!"
 date: 2024-05-19
 permalink: /blog/week-3-the-nature-and-character-of-god-outreach-location/
 ---
-
+# [Home](/) - [Media](/media.html) - [Contact](/contact.html)
+---
 <div id="imageGallery"></div>
 
 <script>
