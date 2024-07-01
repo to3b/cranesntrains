@@ -4,7 +4,8 @@ title: "Week 5 - Father heart of God"
 date: 2024-06-09
 permalink: /blog/week-5-father-heart-of-god/
 ---
-
+# [Home](/) - [Media](/media.html) - [Contact](/contact.html)
+---
 <div id="imageGallery"></div>
 
 <script>
