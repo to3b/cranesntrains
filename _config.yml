@@ -1,5 +1,5 @@
-title: My Blog
-description: A blog about things
+title: Cranes n Trains
+description: A blog about my YWAM experience.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://to3b.github.io" # the base hostname & protocol for your site
 theme: jekyll-theme-tactile
