@@ -3,7 +3,8 @@ footer {
 }
 img {
     background-color: #fff;
-    height: 163px;
-    width: 163px;
+    height: 202px;
+    width: 202px;
     margin: 2px;
+    object-fit: cover;
 }
