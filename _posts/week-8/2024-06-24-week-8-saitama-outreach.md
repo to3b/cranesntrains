@@ -25,7 +25,7 @@ $(document).ready(function() {
 });
 
     // Array of image file names (replace with your actual file names)
-    var imageFiles = ['8ac3ca_575f2a20c7a949bf97ab3b30312883ee~mv2.webp', '8ac3ca_dec209c3426f4727987d5ec706ca5da6~mv2.webp', 'download.webp']; // Add more as needed
+    var imageFiles = ['week8 (1).webp', 'week8 (2).webp', 'week8 (3).webp', 'week8 (4).webp', 'week8 (5).webp', 'week8 (6).webp', 'week8 (7).webp', 'week8 (8).webp', 'week8 (9).webp', 'week8 (10).webp', 'week8 (11).webp', 'week8 (12).webp', 'week8 (13).webp', 'week8 (14).webp', 'week8 (15).webp', 'week8 (16).webp', 'week8 (17).webp', 'week8 (18).webp', 'week8 (19).webp', 'week8 (20).webp', 'week8 (21).webp', 'week8 (22).webp', 'week8 (23).webp', 'week8 (24).webp']; // Add more as needed
 
     // Reference to the gallery container
     var galleryContainer = document.getElementById('imageGallery');
