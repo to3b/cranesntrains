@@ -5,7 +5,6 @@ title: Cranes n Trains
 
 # [Home](/) - [Media](/media.md) - [Contact](/contact.md)
 ---
-# **YWAM updates!**
 
 ---
 
