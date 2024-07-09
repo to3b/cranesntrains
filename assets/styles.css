@@ -26,3 +26,10 @@ h1, h2, h3 {
     gap: 10px;
     padding: 10px;
 }
+#imageGallery > * {
+  width: 100% !important; /* Occupy the full width of its container */
+  height: auto !important; /* Allow the height to adjust based on the width */
+  max-width: 100% !important; /* Ensure the image doesn't exceed its container's width */
+  object-fit: contain !important; /* Ensure the entire image is visible within the container */
+  aspect-ratio: 1 / 1 !important; /* Ensure the image maintains a 1:1 aspect ratio */
+}
