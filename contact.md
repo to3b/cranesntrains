@@ -7,6 +7,6 @@ title: Contact Ebony
 # If you would like to contact me, send me a message on instagram [@paper_cranes_n_bullet_trains](https://www.instagram.com/paper_cranes_n_bullet_trains/) or by email _________@gmail.com !
 <style>
   h1 {
-    min-width: 100%
+    max-width: 100%
   }
 </style>
