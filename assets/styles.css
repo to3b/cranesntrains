@@ -25,6 +25,7 @@ h1, h2, h3 {
     grid-template-columns: repeat(3, 1fr); /* Three columns */
     gap: 10px;
     padding: 10px;
+    bottom-margin: 10px;
 }
 #imageGallery > * {
   width: 100% !important; /* Occupy the full width of its container */
