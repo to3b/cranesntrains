@@ -20,6 +20,8 @@ title: Cranes n Trains
 ---
   
 ## Latest Posts
+- ## [Week 9 - Jesus week! ![image](https://github.com/user-attachments/assets/0ea31276-2447-4117-97af-e23197316e72)](/blog/week-9-jesus-week/)
+---
 - ## [Week 8 - Saitama Outreach ![image](https://github.com/to3b/to3b.github.io/assets/120763300/eec0766a-b7bb-4003-9466-e010e22ba66b)](/blog/week-8-saitama-outreach/)
 ---
 - ## [Week 7 - Godly relationships ![image](https://github.com/to3b/to3b.github.io/assets/120763300/f905e68c-f09d-4d16-b898-242b4ec67ff5)](/blog/week-7-godly-relationships/)
