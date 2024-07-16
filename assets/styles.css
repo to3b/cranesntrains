@@ -35,7 +35,7 @@ h1, h2, h3 {
   aspect-ratio: 1 / 1 !important; /* Ensure the image maintains a 1:1 aspect ratio */
   margin-bottom: 10px !important;
 }
-p {
+p:first-child:not(:only-child) {
     border-top: 100px solid red;
 }
 
