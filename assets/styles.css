@@ -35,3 +35,6 @@ h1, h2, h3 {
   aspect-ratio: 1 / 1 !important; /* Ensure the image maintains a 1:1 aspect ratio */
   margin-bottom: 10px !important;
 }
+p {
+    margin: 1px;
+}
