@@ -20,6 +20,10 @@ title: Cranes n Trains
 ---
   
 ## Latest Posts
+- ## [Week 11 - Lordship ![image](https://github.com/user-attachments/assets/a21b651e-a216-44ac-bc19-619c9299cf0c)](/blog/week-11-lordship/)
+---
+- ## [Week 10 - Spiritual Warfare ![image](https://github.com/user-attachments/assets/0ea31276-2447-4117-97af-e23197316e72)](/blog/week-10-spiritual-warfare/)
+---
 - ## [Week 9 - Jesus week! ![image](https://github.com/user-attachments/assets/0ea31276-2447-4117-97af-e23197316e72)](/blog/week-9-jesus-week/)
 ---
 - ## [Week 8 - Saitama Outreach ![image](https://github.com/to3b/cranesntrains/assets/120763300/eec0766a-b7bb-4003-9466-e010e22ba66b)](/blog/week-8-saitama-outreach/)
