@@ -2,7 +2,7 @@
 layout: default
 title: "Week 12 - Holy Spirit"
 date: 2024-07-21
-permalink: /blog/week-11-holy-spirit/
+permalink: /blog/week-12-holy-spirit/
 ---
 # [Home](/) - [Media](/media.html) - [Contact](/contact.html)
 ---
@@ -33,7 +33,7 @@ $(document).ready(function() {
 
     // Loop through image files and generate HTML
     imageFiles.forEach(function(fileName) {
-        var imagePath = 'https://raw.githubusercontent.com/to3b/cranesntrains/main/_posts/week-11/' + fileName; // Adjust the path as necessary
+        var imagePath = 'https://raw.githubusercontent.com/to3b/cranesntrains/main/_posts/week-12/' + fileName; // Adjust the path as necessary
         var caption = 'Image ' + fileName; // You can set dynamic captions here
         
         // Create <a> tag for each image
