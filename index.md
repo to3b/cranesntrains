@@ -20,6 +20,8 @@ title: Cranes n Trains
 ---
   
 ## Latest Posts
+- ## [Week 12 - Holy Spirit ![image](https://github.com/user-attachments/assets/47b79a69-7969-4303-b0d7-17d2ce9e3a9c)](/blog/week-12-holy-spirit/)
+---
 - ## [Week 11 - Lordship ![image](https://github.com/user-attachments/assets/a21b651e-a216-44ac-bc19-619c9299cf0c)](/blog/week-11-lordship/)
 ---
 - ## [Week 10 - Spiritual Warfare ![image](https://github.com/user-attachments/assets/0ea31276-2447-4117-97af-e23197316e72)](/blog/week-10-spiritual-warfare/)
