@@ -26,7 +26,7 @@ $(document).ready(function() {
 });
 
     // Array of image file names (replace with your actual file names)
-    var imageFiles = ["week10 (1).png", "week10 (2).png", "week10 (3).png", "week10 (4).png", "week10 (5).png", "week10 (6).png", "week10 (7).png", "week10 (8).png", "week10 (9).png", "week10 (10).png", "week10 (11).png", "week10 (12).png", "week10 (13).png"]; // Add more as needed
+    var imageFiles = ["week 10 (1).png", "week 10 (2).png", "week 10 (3).png", "week 10 (4).png", "week 10 (5).png", "week 10 (6).png", "week 10 (7).png", "week 10 (8).png", "week 10 (9).png", "week 10 (10).png", "week 10 (11).png", "week 10 (12).png", "week 10 (13).png"]; // Add more as needed
 
     // Reference to the gallery container
     var galleryContainer = document.getElementById('imageGallery');
