@@ -53,16 +53,56 @@ $(document).ready(function() {
         galleryContainer.appendChild(link);
     });
 </script>
-こんにちは！This was our last week of Lecture Phase for DTS 2024! We had Greg Lilley, the base director of YWAM Niseko in Hokkaido (Japan), teach on ‘the Holy Spirit’. This was a great week to follow ‘Lordship’ week! Greg taught us about the Holy Spirit through telling us his story and through practical application during lectures, e.g. we would pray for each other and Outreach locations and listen for what God was saying for them - it was similar to ‘Hearing God’s voice’ week. Greg also didn’t want us to set up tables and chairs for lectures, but instead sit on the couches and floor (sitting on the floor is a part of Japanese culture. All the lunch/dinner tables are low to the ground and we sit on the floor around them.) I enjoyed this week! And also enjoyed preparing for Outreach!
-This week, the aircon in my room had been leaking, and so my roommates had to remove the carpet. So it was a bit difficult because we couldn’t sleep in that room! But we worked it out, and once we leave they will hopefully put the carpet back down once the room is dry. 
-On the weekend, I found ‘Traditional Australian Meat Pie’ at a new local grocery store! So when I come back, and I’m missing an Aussie meal, I’ll have to get some! This grocery store has a few international foods, and it’s close to the base. 
-Saturday night, Akiyoshi san, Yayoi san, and I had somen noodles for dinner together! It was delicious! I’m grateful for my Japanese family! 
-So that’s it! Lecture Phase is complete! And now we are preparing for Outreach. We leave on Monday 22nd July for the Philippines. I really enjoyed Lecture Phase and I’m looking forward to Outreach!
-Please be praying for us and the ministry we will do there. I believe we will do lots of children's and youth ministry in the Philippines and Japan. 
 
-Time-outline:
-Philippines Outreach - 7 weeks, 22nd July-8th September 
-Kochi city, Japan - around 2 weeks after 8th September 
-Then we graduate from YWAM DTS on the 2nd-4th of October! 
 
-I won’t do any writing on Outreach, but I may afterwards. Thank you for your support! またね！
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+G’day! I wanted to give you an update on my Outreach time here in Leyte, Philippines so far. My outreach team has been in the Philippines since July 22nd now. We flew from Osaka to Manila to Tacloban City. We began our Outreach by helping with ministry at the YWAM base in Tacloban city for 2 weeks. We did house to house ministry/evangelism, kid’s and youth ministry, and street evangelism in Tacloban city. These were very fruitful times! Getting to know the people living at the Tacloban YWAM base, dancing with kids, showing skits, sharing testimonies, running the church services at a few different locations, and sharing Jesus with people in the city. The Philippines is predominantly a Catholic country, so it has felt very different compared to Japan! Most people already know who Jesus is, and may say they are catholic or their family is catholic. So we have been sharing that they can have a real relationship with Jesus Christ, and it’s not about religion. And asking them if we can pray for them. 
+I have had 2 experiences that have stood out to me while I was in Tacloban city. The first one was meeting a couple who own a street food vendor - selling coconut juice, meat skewers etc. They have 3 children who are in school. They are always selling food at the same place, so whenever we had street evangelism planned, we knew they would be there! They are also Christians, so I think it’s encouraging to them having us come talk with and pray for them. The second experience was meeting a mother and her 3 year old daughter in one of the neighborhoods near the Tacloban YWAM base. This little girl's name is Princess and she has a disability, from what I can tell it’s quite similar to what my brother Toby has. So meeting her touched my heart. She needs a shunt because she has too much fluid in her head and she can’t walk because her legs are stiff. She is a very happy kid though, always smiling! Her mother stays home to look after her, while her 2 older children are at school and her husband works. They can’t afford surgery at the moment for Princess to get a shunt, but her mother is also worried that the surgery might not work. (Her mother said that the surgery could be around 50,000 peso, which is around $1,330 AUS.) This really broke my heart! And it made me feel so grateful for the health care my family has benefitted from in Australia. Before we left Tacloban city, I made sure that I visited Princess and her mother again - we brought her a little snack and some hair clips too. We will go back to Tacloban city next week, so I hope I can visit them then!
+Last week, we traveled to Abuyog and stayed at a church. We helped them run Saturday school for children sponsored by Compassion, running 2 church services, praying for Abuyog, evangelising, and visiting a part of the island that can only be accessed via boat - there we did house to house evangelism and a kids’ event in an outside hall: dancing, showing skits, sharing testimonies and giving out lollies. 
+Now we have arrived in Javier and are staying in a church member’s house. I’m excited to be here!
+What I’ve liked about outreach in the Philippines is the simple living; only getting groceries for 1 or 2 days (because we have no fridge), packing only what you need for a few weeks, sometimes washing laundry by hand, not having a flushing toilet, showering using a bucket, catching motorbikes as transport etc. A lot of these things can be inconvenient, like having to go to the markets everyday for meat, veggies etc., not relying on your own car to take you places whenever you want (Usually the drivers here arrive 15 minutes early or late!), and not having the luxury of a laundry or western/Japanese bathroom! I’ve enjoyed it though! But I am missing some of the luxuries and conveniences I have in Australia and Japan.
+Thank you for reading this outreach update! I’m looking forward to what is to come! 
+
+Praise:
+Having spaces big enough for us to stay at - in Javier we just fit!
+Knowing local Filipinos that can show us around their town and help us
+Having lots of different ministry opportunities also - kids, youth, mothers’ ministries, and church services
+
+Prayer request:
+For the family that we met in Tacloban city - protection and strength
+For Princess and her family - peace 
+For the rest of the outreach in the Philippines - church services, youth and kids ministry 
+The outreach team energy and preparing for different ministries 
+
+The photos attached are from mostly free days we have had and kids’ and youth ministry. 
+
+Some other things related to the photos:
+It was my brother’s 16th birthday last week! So I called my family, and the children from the street sang my brother Happy Birthday. My grandma took a photo of what I looked like on their end. 
+A street dog named Brownie from Abuyog has made the church his home, so during worship he will break into the church and lay on the floor and sometimes the stage. 
