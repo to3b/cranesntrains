@@ -33,7 +33,7 @@ $(document).ready(function() {
 
     // Loop through image files and generate HTML
     imageFiles.forEach(function(fileName) {
-        var imagePath = 'https://raw.githubusercontent.com/to3b/cranesntrains/main/_posts/first-phillippines-outreach-update/' + fileName; // Adjust the path as necessary
+        var imagePath = 'https://raw.githubusercontent.com/to3b/cranesntrains/main/_posts/first-philippines-outreach-update/' + fileName; // Adjust the path as necessary
         var caption = 'Image ' + fileName; // You can set dynamic captions here
         
         // Create <a> tag for each image
